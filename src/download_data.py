@@ -14,3 +14,4 @@ df.to_csv("data/raw/metro_interstate_traffic_volume.csv", index=False)
 
 print("Saved:", df.shape[0], "rows and", df.shape[1], "columns")
 print(df.head())
+
