@@ -111,4 +111,4 @@ Enter a day, hour, holiday status, and weather conditions to get a predicted con
 
 ## 👤 Author
 
-Vaishnavi — Third-year Computer Science Engineering student.
+Vaishnavi Phadatare
