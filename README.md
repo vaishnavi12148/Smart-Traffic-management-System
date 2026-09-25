@@ -52,15 +52,17 @@ Four classification models were trained and compared to predict `congestion_leve
 ## 📁 Repository Structure
 
 smart-traffic-management-system/
+├── app/                  # Streamlit prediction app
 ├── data/
-│ ├── raw/ # original downloaded dataset (not tracked in Git)
-│ └── processed/ # cleaned and feature-engineered datasets
-├── notebooks/ # step-by-step analysis notebooks (run in order 01–07)
-├── src/ # dataset download script
-├── models/ # trained model files (.pkl)
-├── app/ # Streamlit prediction app
-├── requirements.txt
-└── README.md
+│   ├── raw/              # Original downloaded dataset
+│   └── processed/        # Cleaned and feature-engineered data
+├── models/               # Trained model files (.pkl)
+├── notebooks/            # Step-by-step analysis notebooks
+├── screenshots/          # Screenshots of the Streamlit app
+├── src/                  # Dataset download script
+├── .gitignore
+├── README.md
+└── requirements.txt
 
 
 ## 🚀 Setup Instructions
