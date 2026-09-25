@@ -1,5 +1,7 @@
 # 🚦 Smart Traffic Congestion Prediction System
 
+🔗 **[Try the live app](https://smart-traffic-management-system-ahfhdwjg2mrqqig74agk7r.streamlit.app/)**
+
 A machine learning system that predicts traffic congestion levels from historical traffic and weather data, deployed as an interactive web app.
 
 ## 📌 Project Overview
