@@ -51,6 +51,7 @@ Four classification models were trained and compared to predict `congestion_leve
 
 ## 📁 Repository Structure
 
+```text
 smart-traffic-management-system/
 ├── app/                  # Streamlit prediction app
 ├── data/
@@ -63,7 +64,7 @@ smart-traffic-management-system/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
+```
 
 ## 🚀 Setup Instructions
 
