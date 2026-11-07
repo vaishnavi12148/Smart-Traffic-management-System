@@ -1,0 +1,13 @@
+Copyright (c) 2026 Vaishnavi Phadatare. All rights reserved.
+
+This repository, including its original source code, notebooks, documentation, project structure, visualizations, and other original materials, is provided for viewing and evaluation purposes only.
+
+No permission is granted to copy, reproduce, modify, adapt, redistribute, publish, sublicense, or use the original materials in another project, whether for personal, academic, or commercial purposes, without prior written permission from the copyright holder.
+
+You may view this repository on GitHub. Viewing the repository does not grant permission to reuse or redistribute its contents.
+
+Third-party datasets, libraries, tools, and other materials remain subject to their respective owners' terms and licenses. This notice does not claim ownership of third-party materials.
+
+For permission requests, contact the repository owner through the contact details on the owner's GitHub profile.
+
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
